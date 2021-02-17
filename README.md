@@ -1,4 +1,4 @@
 # DM-481592
 ТЕХНОЛОГІЇ ПОДАННЯ ТА ОБРОБКИ ЗНАНЬ В ІНТЕЛЕКТУАЛЬНИХ СИСТЕМАХ
 
-Kulinich Anatolii
+Kulinich Anatolii 1
